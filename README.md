@@ -13,3 +13,7 @@ sobre escribir el metodo de impresión y que este pueda mostrar un mensaje difer
 
 3. Principio de sustitución de Liskov 
 Se ultiliza sustitución de Liskov para solucionar el problema de que un cuadrado y un rectangulo es diferente en temas de lados.
+
+## Integrantes
+Edwin Hernández Cabrera - 20152020013
+John Eddy Malagon - 20151020021
